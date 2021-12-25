@@ -1,10 +1,15 @@
 .footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
-  height: 60px;
+  height: 100%;
 }
 
-.myFont{
-    font-family: 'Roboto Mono', monospace;
+.myFont {
+  font-family: "Roboto Mono", monospace;
+}
+
+.textOfIntro {
+  margin: 0 25px;
+  padding: 0 25px 0 25px;
 }
