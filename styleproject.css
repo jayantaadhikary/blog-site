@@ -1,3 +1,10 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
 .myFont {
   font-family: "Roboto Mono", monospace;
 }
@@ -13,9 +20,6 @@ hr.style-two {
   );
 }
 
-.footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
+li{
+  font-size: 18px;
 }
